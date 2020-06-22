@@ -1,1 +1,1 @@
-# norc.github.io
+# NORC-UChicago.github.io
